@@ -22,5 +22,5 @@ Feel free to explore, leave feedback, or even collaborate. I’m always open to 
 ---
 
 📫 **Let's Connect**:  
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/martinkusnir/)) 
+[LinkedIn](https://www.linkedin.com/in/martinkusnir/) 
 
